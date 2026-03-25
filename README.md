@@ -12,3 +12,6 @@ This repository contains a collection of tools and scripts for automating and op
 
 ## Getting Started
 To get started, clone this repository and install the required dependencies, then follow the examples in the documentation to start optimizing your climate models.
+
+## Changelog
+- Added utility functions
